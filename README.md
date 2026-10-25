@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Jason%20Nguyen&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=CS%20%40%20UMass%20Amherst&descSize=18&descAlignY=58" width="100%" alt="Jason Nguyen, CS at UMass Amherst" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Jason%20Nguyen&fontSize=56&fontColor=ffffff&animation=scaleIn&fontAlignY=36&desc=Honors%20CS%20%40%20UMass%20Amherst&descSize=18&descAlignY=58" width="100%" alt="Jason Nguyen, Honors CS at UMass Amherst" />
 
 <p align="center">
   <a href="https://visolab.net"><img src="https://img.shields.io/badge/visolab.net-1e3a8a?style=for-the-badge" alt="visolab.net" /></a>
-  <a href="https://www.linkedin.com/in/jason-nguyen-2711a7374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/njason2811/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:jasnguyen@umass.edu"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
