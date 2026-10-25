@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://my-app-eosin-kappa-50.vercel.app/"><img src="https://raw.githubusercontent.com/Thomaskinga2/TickTector/main/app/icon.svg" width="48" alt="TickTector logo" /></a></td>
-    <td><b><a href="https://my-app-eosin-kappa-50.vercel.app/">TickTector</a></b> · <a href="https://github.com/Thomaskinga2/TickTector">code</a><br />Weekly tick risk for every Massachusetts town, from live state health data and weather forecasts. Built with two teammates at Hackachusetts 2026.</td>
+    <td><b><a href="https://my-app-eosin-kappa-50.vercel.app/">TickTector</a></b> · <a href="https://github.com/Thomaskinga2/TickTector">code</a><br />Weekly tick risk for every Massachusetts town, from live state health data and weather forecasts. Built with three teammates at Hackachusetts 2026.</td>
   </tr>
   <tr>
     <td width="80" align="center"><a href="https://openreview.net/pdf?id=5s8w8kXDNi">📄</a></td>
