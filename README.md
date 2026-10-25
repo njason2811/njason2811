@@ -1,21 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Jason%20Nguyen&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=CS%20%40%20UMass%20Amherst&descSize=18&descAlignY=58" width="100%" alt="Jason Nguyen, CS at UMass Amherst" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Co-founder+of+visolab.net;First+author%2C+NeurIPS+2025+workshop+paper;Building+with+Python+and+Claude+Code;Looking+for+SWE+and+AI%2FML+internships" alt="Co-founder of visolab.net. First author of a NeurIPS 2025 workshop paper. Building with Python and Claude Code. Looking for SWE and AI/ML internships." />
-</p>
-
-<p align="center">
   <a href="https://visolab.net"><img src="https://img.shields.io/badge/visolab.net-1e3a8a?style=for-the-badge" alt="visolab.net" /></a>
   <a href="https://www.linkedin.com/in/jason-nguyen-2711a7374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:jasnguyen@umass.edu"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
-## About me
-
-- 🎓 CS student at UMass Amherst
-- 🛠️ Co-founder of [visolab](https://visolab.net), a free site for learning to code
-- 📄 First author of a NeurIPS 2025 workshop paper on video question answering
-- 📍 From Lincoln, NE
+<p align="center">
+  <img src="assets/terminal.svg" width="760" alt="Animated terminal: Jason Nguyen, CS at UMass Amherst, co-founder of visolab.net, first author of UpstreamQA (NeurIPS 2025 workshop), TickTector at Hackachusetts 2026, from Lincoln, NE, looking for SWE and AI/ML internships." />
+</p>
 
 ## Projects
 
