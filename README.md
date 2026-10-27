@@ -17,7 +17,7 @@
     <td width="50%" valign="top">
       <a href="https://visolab.net"><img src="https://visolab.net/og.png" alt="visolab: learn to code by writing code" /></a>
       <h3><a href="https://visolab.net">visolab</a></h3>
-      A free site where you learn Python and C++ by writing real code in the browser, visualize it, and have it checked by automated test cases. I co-founded it.
+      A coding website where you learn Python and C++ by writing real code in the browser, visualize it, and have it checked by automated test cases. I co-founded it.
       <br /><br />
       <a href="https://visolab.net"><img src="https://img.shields.io/badge/Live_site-visolab.net-1e3a8a?style=flat-square" alt="Live site" /></a>
     </td>
