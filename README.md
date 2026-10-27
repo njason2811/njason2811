@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <a href="https://my-app-eosin-kappa-50.vercel.app/"><img src="https://raw.githubusercontent.com/Thomaskinga2/TickTector/main/app/opengraph-image.png" alt="TickTector: this week's tick risk for every Massachusetts town" /></a>
       <h3><a href="https://my-app-eosin-kappa-50.vercel.app/">TickTector</a></h3>
-      Weekly tick risk for every Massachusetts town, from live state health data and weather forecasts. Built with three teammates at Hackachusetts 2026.
+      Weekly tick risk for every Massachusetts town, from live state health data and weather forecasts. Built with four teammates at Hackachusetts 2026.
       <br /><br />
       <a href="https://my-app-eosin-kappa-50.vercel.app/"><img src="https://img.shields.io/badge/Live_app-TickTector-2a6b38?style=flat-square" alt="Live app" /></a>
       <a href="https://github.com/Thomaskinga2/TickTector"><img src="https://img.shields.io/badge/Code-GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="Code on GitHub" /></a>
